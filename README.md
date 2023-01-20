@@ -15,7 +15,7 @@
                 # Decimal
                 # Binary
                 # Hexa
-        # Octak To:
+        # Hexa To:
                 # Decimal
                 # Binary
-                # Ocatal
+                # Octal
