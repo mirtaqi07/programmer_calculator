@@ -1,7 +1,7 @@
 # programmer_calculator_using_winforms
 
 # This Programmer Calulator is made using WinForms.
-    # This code is in C#.
+    # This code is written in C#.
     # It converts form:
         # Decimal To:
                 # Binary
